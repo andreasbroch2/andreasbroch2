@@ -1,6 +1,7 @@
-# Hi 👋, I'm Andreas - A passionate frontend developer from Denmark
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=andreasbroch2&label=Profile%20views&color=0e75b6&style=flat" alt="andreasbroch2" /> </p>
+<h1 align="center">Hi 👋, I'm Andreas</h1>
+<h3 align="center">A passionate frontend developer from Denmark</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=andreasbroch2&label=Profile%20views&color=0e75b6&style=flat" alt="andreasbroch2" /> </p>
 
 - 🔭 I’m currently working on [Tagberegneren](https://www.tagberegneren.dk/)
 
