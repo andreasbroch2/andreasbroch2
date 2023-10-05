@@ -1,5 +1,5 @@
 # Hi 👋, I'm Andreas
-<p float="right"> <img src="https://komarev.com/ghpvc/?username=andreasbroch2&label=Profile%20views&color=0e75b6&style=flat" alt="andreasbroch2" /> </p>
+<p style="float:right"> <img src="https://komarev.com/ghpvc/?username=andreasbroch2&label=Profile%20views&color=0e75b6&style=flat" alt="andreasbroch2" /> </p>
 <h3 align="center">A passionate frontend developer from Denmark</h3>
 
 
