@@ -22,5 +22,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andreasbroch2&" alt="andreasbroch2" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andreasbroch2" alt="andreasbroch2" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andreasbroch2&theme=nord&margin-w=15&title=Commits,Experience,Repositories" alt="andreasbroch2" /></a> </p>
 
